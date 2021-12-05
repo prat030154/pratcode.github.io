@@ -10,12 +10,6 @@ body {
      background-image: url(https://image.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg);
 }
 
-.text h1 {
-     margin-left: 1000px;
-     transform: rotate(35deg);
-     color: lightskyblue;
-}
-
 #html div {
      height: 20px;
      width: 80px;
