@@ -1,0 +1,21 @@
+#text h1 {
+     margin-left: auto;
+     color: blue;
+}
+#img p {
+     size: smaller;
+     margin-left: 30px;
+}
+#text h5 {
+     font-size: large;
+}
+#img p {
+     font-size: smaller;
+     font-style: inherit;
+
+}
+#exit-button a {
+     height: 20px;
+     width: 80px;
+     background-color: aqua;
+}

@@ -1,0 +1,38 @@
+.menu {
+     height: 20px;
+     width: 100px;
+     background-color: blue;
+     margin-top: 70px;
+     margin-left: 50px;
+}
+
+body {
+     background-image: url(https://image.freepik.com/free-vector/cat-lover-pattern-background-design_53876-100662.jpg);
+}
+
+.text h1 {
+     margin-left: 1000px;
+     transform: rotate(35deg);
+     color: lightskyblue;
+}
+
+#html div {
+     height: 20px;
+     width: 80px;
+     background-color: aqua;
+     margin-left: 50px;
+}
+
+#css div {
+     height: 20px;
+     width: 80px;
+     background-color: greenyellow;
+     margin-left: 50px;
+}
+
+#js div {
+     height: 20px;
+     width: 80px;
+     background-color: rgb(48, 205, 216);
+     margin-left: 50px;
+}
